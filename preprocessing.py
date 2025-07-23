@@ -82,3 +82,9 @@ def cluster(img):
         charimg.append(img[c[i,0]-14:c[i,0]+14,c[i,1]-14:c[i,1]+14])
 
     return charimg, c
+
+
+# TODO papare img
+
+def prepare(img):
+    pass
